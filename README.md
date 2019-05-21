@@ -93,6 +93,7 @@ TBD
 - https://www.udemy.com/typescript/
 
 #### React
+- https://glitch.com/culture/you-got-this-zine-2/
 - https://www.udemy.com/course-dashboard-redirect/?course_id=1362070
 - https://www.codecademy.com/learn/react-101
 - https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
