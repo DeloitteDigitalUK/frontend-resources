@@ -11,7 +11,7 @@ This page is also taking some direction from https://github.com/DeloitteDigitalU
   - [Overall](#Overall)
   - [HTML](#HTML)
   - [CSS](#CSS)
-  - [JS](#JS)
+  - [JavaScript](#JavaScript)
 - [Tooling](#Tooling)
 - [Accessibility](#Accessibility)
 - [Frameworks](#Frameworks)
@@ -62,6 +62,8 @@ Free:
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
 [HTML Fundamentals](https://www.pluralsight.com/courses/html-fundamentals) | Video | 02:13:00 | HTML | Pluralsight | Matt Milner | 17/05/2012 | Yes
 [HTML5 Fundamentals](https://www.pluralsight.com/courses/html5-fundamentals-2e) | Video | 03:56:00 | HTML | Pluralsight | Craig Shoemaker | 08/08/2013 | Yes
+https://learn.shayhowe.com/html-css/
+
 
 #### CSS
 
@@ -69,7 +71,7 @@ Free:
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
 [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) | Video | 02:09:00 | CSS | Pluralsight | Scott Allen | 17/07/2011 | Yes
 
-#### JS
+#### JavaScript
 
 | **Title** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?**
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
@@ -84,15 +86,25 @@ Free:
 [Git Fundamentals](https://www.pluralsight.com/courses/git-fundamentals) | Video |  01:51:00 | Version Control | Pluralsight | James Kovacs | 22/05/2010 | Yes
 
 ## Accessibility
-TBD
+- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA - On using ARIA attributes to make the web more accessible to people with disabilities
 
 ## Frameworks / Libraries
+It's recommended to get a good grasp on the foundations of Javascript before starting to learn the frameworks/languagues below. 
 
 #### TypeScript
+### Beginner:
+- https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html - Typescript official documentation
 - https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb
 - https://www.udemy.com/typescript/
+- https://medium.com/angularmedellin/a-brief-introduction-to-typescript-part-1-ceedb3e9b1c0 - A fast overview of typescript and it's purpose
+
+### Advanced
+ - https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680 - Pro tips and best practices for using typescript with or without React
 
 #### React
+A JavaScript library for building user interfaces, written by Facebook. Emphasis on uni-directional data flow.
+
+- https://reactjs.org/tutorial/tutorial.html - Write your first React app, a Tic Tac Toe game
 - https://glitch.com/culture/you-got-this-zine-2/
 - https://www.udemy.com/course-dashboard-redirect/?course_id=1362070
 - https://www.codecademy.com/learn/react-101
@@ -100,6 +112,8 @@ TBD
 - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
 #### Angular
+
+- https://medium.freecodecamp.org/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7 - Write a Todo app in angular in 20 minutes
 - https://angular.io/guide/quickstart
 - https://blog.angular-university.io/
 - https://ultimatecourses.com/blog/category/angular
@@ -108,3 +122,5 @@ TBD
 #### Vue
 
 #### Others
+
+
