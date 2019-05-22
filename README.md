@@ -62,7 +62,7 @@ Free:
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
 [HTML Fundamentals](https://www.pluralsight.com/courses/html-fundamentals) | Video | 02:13:00 | HTML | Pluralsight | Matt Milner | 17/05/2012 | Yes
 [HTML5 Fundamentals](https://www.pluralsight.com/courses/html5-fundamentals-2e) | Video | 03:56:00 | HTML | Pluralsight | Craig Shoemaker | 08/08/2013 | Yes
-https://learn.shayhowe.com/html-css/
+[HTML+CSS Complete Introduction](https://learn.shayhowe.com/html-css/) | Website | --:--:-- | HTML + CSS | Shay Howe | Shay Howe | 2019 | No
 
 
 #### CSS
