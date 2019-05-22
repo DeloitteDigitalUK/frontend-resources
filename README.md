@@ -70,6 +70,7 @@ Free:
 | **Title** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?**
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
 [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) | Video | 02:09:00 | CSS | Pluralsight | Scott Allen | 17/07/2011 | Yes
+[HTML+CSS Complete Introduction](https://learn.shayhowe.com/html-css/) | Website | --:--:-- | HTML + CSS | Shay Howe | Shay Howe | 2019 | No
 
 #### JavaScript
 
