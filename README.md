@@ -91,17 +91,17 @@ https://learn.shayhowe.com/html-css/
 ## Frameworks / Libraries
 It's recommended to get a good grasp on the foundations of Javascript before starting to learn the frameworks/languagues below. 
 
-#### TypeScript
-### Beginner:
+### TypeScript
+#### Beginner:
 - https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html - Typescript official documentation
 - https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb
 - https://www.udemy.com/typescript/
 - https://medium.com/angularmedellin/a-brief-introduction-to-typescript-part-1-ceedb3e9b1c0 - A fast overview of typescript and it's purpose
 
-### Advanced
+#### Advanced
  - https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680 - Pro tips and best practices for using typescript with or without React
 
-#### React
+### React
 A JavaScript library for building user interfaces, written by Facebook. Emphasis on uni-directional data flow.
 
 - https://reactjs.org/tutorial/tutorial.html - Write your first React app, a Tic Tac Toe game
@@ -111,7 +111,7 @@ A JavaScript library for building user interfaces, written by Facebook. Emphasis
 - https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
-#### Angular
+### Angular
 
 - https://medium.freecodecamp.org/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7 - Write a Todo app in angular in 20 minutes
 - https://angular.io/guide/quickstart
@@ -119,8 +119,8 @@ A JavaScript library for building user interfaces, written by Facebook. Emphasis
 - https://ultimatecourses.com/blog/category/angular
 - https://www.udemy.com/the-complete-guide-to-angular-2/
 
-#### Vue
+### Vue
 
-#### Others
+### Others
 
 
