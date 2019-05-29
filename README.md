@@ -1,4 +1,6 @@
-<img src="dd-fed.png" alt="Deloitte Digital Frontend Logo" width="200"/>
+<p align="center">
+  <img src="https://github.com/DeloitteDigitalUK/frontend-resources/blob/master/dd-fed.png" alt="Deloitte Digital Frontend Logo" width="200"/>
+</p>
 
 ## Frontend Learning Resources
 
