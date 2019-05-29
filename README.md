@@ -1,4 +1,4 @@
-![Deloitte Digital Frontend Logo](./dd-fed.png)
+<img src="dd-fed.png" alt="Deloitte Digital Frontend Logo" width="200"/>
 
 ## Frontend Learning Resources
 
