@@ -5,7 +5,7 @@ Below is a collection of learning resources we as frontend developer often refer
 This page is also taking some direction from https://github.com/DeloitteDigitalUK/fed-path-of-the-ninja
 
 ### Contents
-- [Websites](#Websites)
+- [Recommended Websites](#Recommended\ \Websites)
 - [Podcasts](#Podcasts)
 - [Fundamentals](#Fundamentals)
   - [Overall](#Overall)
@@ -14,6 +14,8 @@ This page is also taking some direction from https://github.com/DeloitteDigitalU
   - [JavaScript](#JavaScript)
 - [Tooling](#Tooling)
 - [Accessibility](#Accessibility)
+- [Design](#Design)
+- [Design Systems](#Design\ \Systems)
 - [Frameworks](#Frameworks)
   - [React](#React)
   - [Angular](#Angular)
@@ -22,7 +24,7 @@ This page is also taking some direction from https://github.com/DeloitteDigitalU
 
 ---
 
-## Websites
+## Recommended Websites
 
 Paid:
 - https://egghead.io/
@@ -84,14 +86,28 @@ Free:
 
 | **Title** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?**
 | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
+[Git in 5 minutes](https://classic.scottr.org/presentations/git-in-5-minutes/) | Article |  00:05:00 | Version Control | - | Scott Paul Robertson | Maintained | No
 [Learn Git](https://www.codecademy.com/learn/learn-git) | Video |  --:--:-- | Version Control | Codecademy | Codecademy | Maintained | No
 [Git Fundamentals](https://www.pluralsight.com/courses/git-fundamentals) | Video |  01:51:00 | Version Control | Pluralsight | James Kovacs | 22/05/2010 | Yes
 
 ## Accessibility
+- Designing For Accessibility And Inclusion - https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA - On using ARIA attributes to make the web more accessible to people with disabilities
 
+## Design
+- Atomic Design - http://atomicdesign.bradfrost.com/chapter-2/
+- Component driven design - https://medium.com/the-s-curve/why-component-driven-design-drives-great-software-products-7cace364e815
+
+## Design Systems
+Design systems are a great way to help with consistency, speed up development and help with accessibility.
+- Gov UK - https://design-system.service.gov.uk/
+- Salesforce - https://lightningdesignsystem.com/
+- IBMs - https://www.carbondesignsystem.com/
+- Google - https://material.io/design/
+- Marvel - https://marvelapp.com/styleguide
+
 ## Frameworks / Libraries
-It's recommended to get a good grasp on the foundations of Javascript before starting to learn the frameworks/languagues below. 
+It's recommended to get a good grasp on the foundations of Javascript before starting to learn the frameworks/languages below.
 
 ### TypeScript
 #### Beginner:
@@ -122,7 +138,6 @@ A JavaScript library for building user interfaces, written by Facebook. Emphasis
 - https://www.udemy.com/the-complete-guide-to-angular-2/
 
 ### Vue
+- TBD
 
 ### Others
-
-
