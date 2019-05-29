@@ -1,3 +1,5 @@
+![Deloitte Digital Frontend Logo](./dd-fed.png)
+
 ## Frontend Learning Resources
 
 Below is a collection of learning resources we as frontend developer often refer back to and share with others.
