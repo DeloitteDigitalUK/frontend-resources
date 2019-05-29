@@ -5,17 +5,18 @@ Below is a collection of learning resources we as frontend developer often refer
 This page is also taking some direction from https://github.com/DeloitteDigitalUK/fed-path-of-the-ninja
 
 ### Contents
-- [Recommended Websites](#Recommended\ \Websites)
+- [Recommended Websites](#Recommended-Websites)
 - [Podcasts](#Podcasts)
+- [Tooling](#Tooling)
 - [Fundamentals](#Fundamentals)
   - [Overall](#Overall)
   - [HTML](#HTML)
   - [CSS](#CSS)
   - [JavaScript](#JavaScript)
-- [Tooling](#Tooling)
+- [Pathways](#Pathways)
 - [Accessibility](#Accessibility)
 - [Design](#Design)
-- [Design Systems](#Design\ \Systems)
+- [Design Systems](#Design-Systems)
 - [Frameworks](#Frameworks)
   - [React](#React)
   - [Angular](#Angular)
@@ -46,6 +47,9 @@ Free:
 
 ## Other Resources
 - https://github.com/kamranahmedse/developer-roadmap - Nice roadmap of things to learn in frontend (also backend / devops)
+
+## Pathways
+TBD: This section will be a sequence of courses that will help up skill an individual in Angular / React / other so that they can confidently contribute to a project.
 
 ## Fundamentals
 
